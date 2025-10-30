@@ -1,0 +1,12 @@
+# Core data and environment
+pandas==2.2.2
+python-dotenv==1.0.1
+
+# LangChain + OpenAI LLMs
+langchain==0.2.16
+langchain-openai==0.1.22
+langchain-experimental==0.0.64
+openai==1.40.2
+
+# Web chat interface
+chainlit==1.2.0
